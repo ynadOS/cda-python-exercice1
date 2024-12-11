@@ -1,0 +1,1 @@
+Exercise to try python 
